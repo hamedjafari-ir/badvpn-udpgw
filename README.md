@@ -2,10 +2,11 @@
 #sudo touch /etc/rc.local   <br>
 #sudo nano /etc/rc.local         <br>
 
-----Import Text-----
-#!/bin/sh -e
-screen -AmdS badvpn badvpn-udpgw --listen-addr 127.0.0.1:7300
-exit 0
+----Import Text-----<br>
+#!/bin/sh -e   <br>
+screen -AmdS badvpn badvpn-udpgw --listen-addr 127.0.0.1:7300  <br>
+exit 0   <br>
+<br>
 ----Import Text-----
 
 #chmod +x /etc/rc.local          <br>           
