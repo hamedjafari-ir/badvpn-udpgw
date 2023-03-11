@@ -1,4 +1,4 @@
-sudo wget -O /usr/bin/badvpn-udpgw "https://raw.githubusercontent.com/daybreakersx/premscript/master/badvpn-udpgw64"      <br>
+#sudo wget -O /usr/bin/badvpn-udpgw "https://raw.githubusercontent.com/daybreakersx/premscript/master/badvpn-udpgw64"      <br>
 #sudo touch /etc/rc.local   <br>
 #sudo nano /etc/rc.local         <br>
 
