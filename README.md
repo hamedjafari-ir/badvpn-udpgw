@@ -1,4 +1,4 @@
-sudo wget -O /usr/bin/badvpn-udpgw "https://github.com/hamedjafari-ir/badvpn-udpgw/blob/main/badvpn-udpgw64"      <br>
+sudo wget -O /usr/bin/badvpn-udpgw "https://github.com/hamedjafari-ir/badvpn-udpgw/raw/main/badvpn-udpgw64"      <br>
 sudo touch /etc/rc.local   <br>
 sudo nano /etc/rc.local         <br>
 `----Import Text-----`
